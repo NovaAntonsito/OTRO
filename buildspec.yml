@@ -15,5 +15,7 @@ artifacts:
   files:
     - package.json
     - package-lock.json
-    - 'build/**/*'
+    - app.ts
+    - tsconfig.json
+    - .env
   discard-paths: yes
