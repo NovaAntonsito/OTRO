@@ -10,7 +10,7 @@ phases:
       - npm install
   build:
     commands:
-      - npm start
+      - tsc
 
 artifacts:
   files:
